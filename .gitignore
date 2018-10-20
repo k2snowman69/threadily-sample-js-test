@@ -1,0 +1,6 @@
+**/coverage
+**/debug
+**/ship
+**/node_modules
+**/*-lock.json
+**/*.lock
